@@ -86,6 +86,8 @@ erDiagram
     TIMESTAMP enrolment_date
   }
 ```
+---
+
 ## 🔧 Configuration
 
 ### 🧾 application.properties
