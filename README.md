@@ -46,8 +46,7 @@ This system allows you to manage:
 
 ## 🗄️ Database ER Diagram
 
-```mermaid
-erDiagram
+```
   STUDENT ||--|| STUDENT_ID_CARD : has
   STUDENT ||--o{ BOOK : owns
   STUDENT ||--o{ ENROLMENT : enrolls
